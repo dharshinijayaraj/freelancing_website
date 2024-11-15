@@ -1,6 +1,4 @@
 
-
-```markdown
 # Freelancing Website
 
 A basic freelancing platform to connect freelancers with clients. This project provides a front-end client interface and a back-end server setup.
@@ -33,5 +31,3 @@ Feel free to open issues or pull requests.
 ## License
 
 This project is open-source. See `LICENSE` for details.
-```
-
