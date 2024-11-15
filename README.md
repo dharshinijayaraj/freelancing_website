@@ -1,4 +1,4 @@
-Here's a sample `README.md` file for the project:
+
 
 ```markdown
 # Freelancing Website
@@ -35,4 +35,3 @@ Feel free to open issues or pull requests.
 This project is open-source. See `LICENSE` for details.
 ```
 
-You can expand this further with specific instructions based on your setup.
